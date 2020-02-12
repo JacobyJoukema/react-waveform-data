@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+//import { WaveformData } from 'waveform-data'
 
 export interface WaveformProps {
 }
